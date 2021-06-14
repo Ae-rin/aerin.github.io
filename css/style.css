@@ -1,17 +1,12 @@
 /* career & skills */
-#career {width: 100%; padding: 70px 0; text-align: center;}
-#career {width: 100%; padding: 70px 0; text-align: center;}
-#career:before {content: ''; display: block; position: absolute; top: 0; left: 0; width: 100%; height: 300px; background: #fafafa;}
-#career:after {content: ''; display: block; position: absolute; top: 15%; left: 50%; width: 1px; height: 70%; background: #f0f0f0;}
-#career .wrapper {padding: 70px 0; background: #fff; border-radius: 10px; box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #e6ecf8;}
-#career .project,
-#career .skill {position: relative; float: left; width: 50%; padding: 0 10%; box-sizing: border-box;}
-#career h2 {margin-bottom: 50px; font-size: 20px; font-weight: 300; color: #000;}
-#career h2 img {width: 100px;}
-#career .skill h2 img {position: relative; top: -10px;}
-#career h2 em {display: block; margin-top: 12px;}
-#career dl {text-align: left;}
-#career dt,
-#career dd {line-height: 2em;}
-#career dt {margin-top: 14px; font-size: 16px; color: #8c43ff;}
-#career dd {padding: 0 8px;}
+#myself {width: 100%; padding: 70px 0; text-align: center;}
+#myself {width: 100%; padding: 70px 0; text-align: center;}
+#myself .career,
+#myself .skill {position: relative; float: left; width: 50%; padding: 0 10%; box-sizing: border-box;}
+#myself h2 {margin-bottom: 50px; font-size: 20px; font-weight: 300; color: #000;}
+#myself h2 img {width: 100px;}
+#myself .skill h2 img {position: relative; top: -10px;}
+#myself dl {text-align: left;}
+#myself dt,
+#myself dt {margin-top: 14px; font-size: 16px; color: #8c43ff;}
+#myself dd {padding: 0 8px;}
