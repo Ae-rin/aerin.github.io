@@ -4,7 +4,7 @@
 #myself .career,
 #myself .skill {position: relative; float: left; width: 50%; padding: 0 10%; box-sizing: border-box;}
 #myself h2 {margin-bottom: 50px; font-size: 20px; font-weight: 300; color: #000;}
-#myself h2 img {width: 100px;}
+#myself h2 img {width: 80px;}
 #myself .skill h2 img {position: relative; top: -10px;}
 #myself dl {text-align: left;}
 #myself dt,
